@@ -1,0 +1,14 @@
+* {
+	width: 450px;
+	color: white;
+	background: black;
+}
+
+img {
+	width: 200px;
+	height: 200px;
+	border: 1px solid gray;
+	margin: 5px;
+	display: inline-block;
+	vertical-align: top;
+}
